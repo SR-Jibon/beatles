@@ -1,0 +1,11 @@
+@media (max-width: 576px) {
+    .hero_con h1 {
+      line-height: 44px;
+    }
+  }
+  @media (max-width: 768px) {
+    .team_img_overlay ul li a {
+      height: 40px;
+      width: 40px;
+    }
+  }
